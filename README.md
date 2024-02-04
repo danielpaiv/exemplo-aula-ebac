@@ -1,3 +1,3 @@
 # exemplo-aula-ebac.
 
-foi apagado frazes descartaveis.
+foi apagado frazes descartaveis
